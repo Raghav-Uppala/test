@@ -1,2 +1,2 @@
-> [!Prerequisites]
+> [!Note]
 > Install node and npm
